@@ -1,3 +1,4 @@
+#!/bin/python3
 import re
 import xml.dom.minidom as xmldom
 dom=xmldom.parse('./blocklist.xml')
