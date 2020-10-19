@@ -32,3 +32,6 @@ def printemail(Tagname):
 
 aa=printbockID('emItem')+printbockID('pluginItem')+printbockID('gfxBlacklistEntry')
 bb=printemail('emItem')+printemail('pluginItem')+printemail('gfxBlacklistEntry')
+
+print('the whole num of lines in Question a is %d'%aa)
+print('the whole num of lines in Question b is %d'%bb)
